@@ -1,0 +1,33 @@
+body{
+    background-color: #E6FFFD;
+    font-family: "Montserrat";
+    margin-top: 5%;
+}
+
+#title{
+    color: #7286D3;
+    font-size: 3rem;
+    text-align: center;
+    
+}
+
+#image{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#About{    
+padding: 30px 200px ;
+}
+
+.heading{
+    padding-left: 25px;
+    font-weight: bold;
+}
+
+#quote{
+    text-align: center;
+    padding: 10px 20px 20px;
+    color: #455cb6;
+}
